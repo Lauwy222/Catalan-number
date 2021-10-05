@@ -21,8 +21,9 @@ int main(void){
 
 	printf("Catalan number: %d > %d", n, catalanRecursief(n));
 	
-	getchar();
+     getchar();
 	return(0);
 	
 }
 
+ 
